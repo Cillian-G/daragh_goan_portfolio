@@ -1,0 +1,16 @@
+
+#page-name {
+float: left;
+}
+
+#socials li {
+list-style-type: none;
+float: right;
+}
+
+#upper-header {
+    color: black;
+}
+#lower-header {
+    padding-top: 40px;
+}

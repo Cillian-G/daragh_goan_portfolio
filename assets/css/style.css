@@ -1,16 +1,45 @@
+* {
+    margin: 0;
+    padding: 0%;
+    border: none;
+}
+
 
 #page-name {
-float: left;
+    float: left;
+    margin-left: 20px;
 }
 
 #socials li {
-list-style-type: none;
-float: right;
+    list-style-type: none;
+    float: right;
+    margin-right: 20px;
 }
 
 #upper-header {
-    color: black;
+    line-height: 75px;
+    height: 10%;
+    clear: both;
 }
+
 #lower-header {
-    padding-top: 40px;
+    clear: both;
+    line-height: 25px;
+    
+}
+
+#sub-name {
+    float: left;
+    padding-left: 20px;
+}
+
+#menu li {
+    list-style-type: none;
+    float: right;
+    padding-right: 20px;
+}
+
+#socials li, #menu li {
+    text-decoration: none;
+    color: inherit;
 }

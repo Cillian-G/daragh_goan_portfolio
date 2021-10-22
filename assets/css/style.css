@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0%;
     border: none;
+    background-color: black;
+    color: whitesmoke;
 }
 
 
@@ -17,15 +19,14 @@
 }
 
 #upper-header {
-    line-height: 75px;
+    line-height: 55px;
     height: 10%;
     clear: both;
 }
 
 #lower-header {
     clear: both;
-    line-height: 25px;
-    
+    line-height: 10%;  
 }
 
 #sub-name {

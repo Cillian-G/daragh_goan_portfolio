@@ -12,7 +12,7 @@
     margin-left: 20px;
 }
 
-#socials li {
+#header-icons li {
     list-style-type: none;
     float: right;
     margin-right: 20px;
@@ -21,7 +21,6 @@
 #upper-header {
     line-height: 55px;
     height: 10%;
-    clear: both;
 }
 
 #lower-header {
@@ -40,7 +39,7 @@
     padding-right: 20px;
 }
 
-#socials li a, #menu li a {
+#header-icons li a, #menu li a {
     text-decoration: none;
     color: inherit;
 }
@@ -80,3 +79,20 @@
     padding-right: 10px;
 }
 
+/* footer */
+
+footer {
+    clear: both;
+}
+
+#footer-icons {
+    list-style-type: none;
+    text-align: center;
+}
+
+#footer {
+    width: 33vw;
+    padding-left: 33vw;
+    padding-right: 33w;
+    border: 0px;
+}

@@ -58,16 +58,25 @@
 
 /* bio and headshot */
 
+/* .personal-info {
+    display: inline-block;
+} */
+
 #bio {
-    width: 50vw;
+    width: 45vw;
     border: 0px;
+    float: left;
+    padding-top: 50px;
 }
 
 #bio p {
     text-align: justify;
+    padding-top: 10px;
 }
 
 #headshot {
-    width: 50%;
+    width: 50vw;
+    float: right;
+    padding-right: 10px;
 }
 

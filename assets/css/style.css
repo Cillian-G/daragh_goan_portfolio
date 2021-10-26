@@ -28,8 +28,9 @@ p {
 #header-icons li {
     list-style-type: none;
     float: right;
-    margin-right: 20px;
-}
+    margin-right: 45px;
+    font-size: 140%;
+} 
 
 #upper-header {
     line-height: 55px;

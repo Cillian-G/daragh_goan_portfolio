@@ -7,16 +7,17 @@
     padding: 0%;
     border: none;
     background-color: black;
-    color: whitesmoke;
+    color: rgba(245, 245, 245, 0.863);
 }
 
 h1, h2, h3, li a {
     font-family: Unica One, sans-serif;
-}
+} */
 
 p {
     font-family:Crimson Pro, sans-serif;
 }
+
 /* Header, title and navbar */
 
 #page-name {
@@ -69,9 +70,6 @@ p {
 
 /* bio and headshot */
 
-/* .personal-info {
-    display: inline-block;
-} */
 
 #bio {
     width: 45vw;
@@ -95,21 +93,31 @@ p {
 
 footer {
     clear: both;
+    height: 100px;
+    border: 0px;
 }
 
 #footer-icons {
     list-style-type: none;
     text-align: center;
+    width: 33vw;
+    padding-top: 50px;
 }
 
 #footer-icons li {
     display: inline;
     text-align: center;
+    font-size: 150%;
+    letter-spacing: 5px;
+    padding: 5%;
+}
+
+#footer-icons li a {
+    text-decoration: none;
 }
 
 #footer {
-    width: 33vw;
     padding-left: 33vw;
-    padding-right: 33w;
-    border: 0px;
+    padding-right: 33vw;
+    /* border: 0px; */
 }

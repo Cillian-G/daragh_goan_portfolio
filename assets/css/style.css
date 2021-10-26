@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Unica+One&display=swap');
 
 
@@ -51,6 +50,23 @@ p {
     list-style-type: none;
     float: right;
     padding-right: 20px;
+}
+
+#menu a {
+    border-bottom: 1px solid black;
+}
+
+#menu a:hover {
+    color:#19B7EA;
+    border-bottom: 1px solid #19B7EA;
+}
+
+#header-icons i:hover {
+    color: #19B7EA;
+}
+
+.active {
+    border-bottom: 1px solid #19B7EA; 
 }
 
 #header-icons li a, #menu li a {
@@ -115,6 +131,10 @@ footer {
 
 #footer-icons li a {
     text-decoration: none;
+}
+
+#footer-icons i:hover {
+    color:#19B7EA;
 }
 
 #footer {

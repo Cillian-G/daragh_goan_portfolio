@@ -15,7 +15,7 @@ h1, h2, h3, li a {
 }
 
 p {
-    font-family: 'Crimson Pro', sans-serif;
+    font-family:Crimson Pro, sans-serif;
 }
 /* Header, title and navbar */
 
@@ -99,6 +99,11 @@ footer {
 
 #footer-icons {
     list-style-type: none;
+    text-align: center;
+}
+
+#footer-icons li {
+    display: inline;
     text-align: center;
 }
 

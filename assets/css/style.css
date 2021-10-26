@@ -65,13 +65,13 @@ p {
     color: #19B7EA;
 }
 
-.active {
-    border-bottom: 1px solid #19B7EA; 
-}
-
 #header-icons li a, #menu li a {
     text-decoration: none;
     color: inherit;
+}
+
+#menu li .active {
+    border-bottom: 1px solid #19B7EA; 
 }
 
 /* showreel section */

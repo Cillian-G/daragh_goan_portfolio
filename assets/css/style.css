@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Unica+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Unica+One&family=Vollkorn&display=swap');
 
 * {
     margin: 0;
@@ -11,10 +10,10 @@
 
 h1, h2, h3, li a {
     font-family: Unica One, sans-serif;
-} */
+} 
 
 p {
-    font-family:Crimson Pro, sans-serif;
+    font-family: Vollkorn, sans-serif;
 }
 
 /* Header, title and navbar */

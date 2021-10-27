@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&family=Vollkorn&display=swap');
 
+/* Color palette vimeo blue #19B7EA, black #000000, black olive,  flame #EC4E20, */
+
 * {
     margin: 0;
     padding: 0%;
     border: none;
     background-color: black;
-    color: rgba(245, 245, 245, 0.863);
+    color: #89937C;
 }
 
 h1, h2, h3, li a {

@@ -14,7 +14,7 @@ h1,
 h2,
 h3,
 #menu li a {
-    font-family: Unica One, sans-serif;
+    font-family: "Unica One", sans-serif;
 }
 
 p {
@@ -37,13 +37,15 @@ hr {
     float: right;
     margin-right: 20px;
     margin-left: 20px;
-    font-size: 110%;
+    font-size: 150%;
 }
 
 #upper-header {
     line-height: 55px;
     height: 10%;
 }
+
+/* bottom half of navbar */
 
 #lower-header {
     clear: both;
@@ -151,7 +153,6 @@ footer {
 #footer {
     padding-left: 33vw;
     padding-right: 33vw;
-    /* border: 0px; */
 }
 
 /* contact page */
@@ -267,5 +268,5 @@ footer {
 .photo-link:hover {
     opacity: 0.4;
     background-color: rgba (238, 76, 32, 1);
-    color: rgba (255, 255, 255, 1)
+    color: rgba (255, 255, 255, 1);
 }

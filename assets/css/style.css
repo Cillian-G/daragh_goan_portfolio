@@ -183,6 +183,10 @@ footer {
     list-style: none;
 }
 
+#contact-daragh li {
+    margin-bottom: 20px;
+}
+
 #contacts-headshot  {
     width: 50vw;
     float: right;

@@ -18,6 +18,9 @@ p {
     font-family: Vollkorn, sans-serif;
 }
 
+hr {
+    color: #89937C;
+}
 /* Header, title and navbar */
 
 #page-name {
@@ -165,13 +168,27 @@ footer {
 
 #contact-daragh { 
     width: 45vw;
-    border: 0px;
+    border: 1px solid black;
     float: left;
     padding-top: 50px;
-}
-
-#contact-daragh p, #contact-daragh h2 {
-    text-align: justify;
-    padding-top: 10px;
     padding-left: 20px;
 }
+
+#contact-daragh ul, #contact-daragh h2 {
+    text-align: justify;
+    padding-top: 10px;
+}
+
+#contact-daragh ul {
+    list-style: none;
+}
+
+#contacts-headshot  {
+    width: 50vw;
+    float: right;
+    padding-right: 20px;
+    padding-top: 15px;
+}
+
+
+

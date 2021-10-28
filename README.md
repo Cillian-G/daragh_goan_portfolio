@@ -1,18 +1,19 @@
 
 
 
-# Title
-Intro paragraph
+# Portfolio Website for Daragh Goan
+This site will serve as an online portfolio for filmmaker Daragh Goan. It is designed to showcase his work to potential employers. It's secondary purpose is to encourage these employers to contact Daragh, as well as to continue exploring his work through linked social media profiles and video-sharing platforms.
 ## User Stories
+
 ## UX (briefly explain your design)
--mention weight of icons, order of icons in top right corner, how to avoid confusion with navbar tabs, 
-### Colour Scheme (explain your colors, etc.... perhaps use coolors.co?)
--Used Coolors.co to get exact colors, Bluue matches viemo color scheme as well as thumbnail of trailer for clients graduate film, the capstone project of their degree and their most accomplished piece of work. 
-Black suits minimalism of site, and places all emphasis on the content ie videos and images, which are doing the "talking" for this portfolio, creating a cinematic feel, and bringing out details of darker video thumbnails like SOS, rocking boat, and the showreel itself. Having a full black background also means that the  "black bars" that appear throughout showreel when it switches aspect ratio are less distracting to the viewer. These black bars are present in the thumnnail of the showreel, making the transition from background to video player seamless, again enhancing the "cinematic" qfeel of the site.   
-With a black background, it was necessary to choose a a relatiely bright text color to achieve sufficient contrast for easy legibility. To avoid drawing too much attention from the content of the site, this choice was limited to the white/gray spectrum, using no other tones.
-Flame was chosen for the gallery transition color using coolor. Searched for a red/orange shade that would compliment the colors already chosen, that would also match the 
+-mention weight of icons, order of icons in top right corner, how to avoid confusion with navbar tabs,
+-aim for cinematic feel, minimal distraction from content, while ensuring navigation to further content and contact details is intuitive and simple 
+### Colour Scheme (explain your colors, etc.... perhaps use coolors.co?) 
+Black suits the minimalist style of site, and places emphasis on the videos and images which are doing the "talking" for this portfolio. Black creates a cinematic feel, and brings out details of darker video thumbnails like those for "S.O.S.", "Rocking Boat", and the showreel itself. Having a full black background also means that the  "black bars" that appear throughout showreel when it switches aspect ratio are less distracting to the viewer. These black bars are present in the thumnnail of the showreel, making the transition from background to video player seamless, again enhancing the cinematic feel of the site.   
+"Artichoke grey" (#89937C) was chosen to avoid detracting from the site's cinematic focus on portfolio content, while allowing for easy legibility. Other tones were avoided so as to 
+The blue used in the site (cyan process #19B7EA) matches the Vimeo color scheme as well as thumbnail of trailer for clients graduate film, the capstone project of their degree and their most accomplished piece of work.
 ### Typography (explain any fonts and icon libraries used, font-awesome/google fonts, etc)
--fontss and icons.
+-fonts and icons.
 icons chosen for consistent shape, rounded square.
 Font chosen alongside colors, thicker fonts create increase legibility which allows for a large range of colors to read as legible on screen. This factor needed to be balanced alongside the clients request for a thin, minimal, elgant font, with as dark a text color as can be acheived without sacrificing legibility.
 ### Wireframes (include screenshots of your wireframes)
@@ -20,15 +21,17 @@ Wireframing the "photos" page raised an interesting design challenge. The photos
 ## Features
 Video players
 ### Existing Features
+video players, bio, cotnact detaisl, gallery
 ### Features Left to Implement
--additions to Photos, contacts (agents, agencies, production companies etc)
+-additions to projects, photos, contacts (agents, agencies, production companies etc)
 ## Technologies Used (explain various tech used, such as HTML, CSS, Balsamiq, TinyPNG, Gitpod, GitHub, Git, etc.)
 ## Testing
 ### Code Validation
+-validate code, get screenshot
 ### Browser Compatibility
--test that
+-test that too, insert screenshots
 ### Responsiveness 
-"amiresponisive image"
+- insert amiresponisive screenshots
 ### Tested User Stories
 ### Unfixed Bugs
 ## Deployment

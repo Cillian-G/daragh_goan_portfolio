@@ -249,5 +249,23 @@ footer {
 }
 
 .photos {
-    clear:both
+    clear: both;
+}
+
+.photo-link img:hover {
+    opacity: 0.3;
+}
+
+.photo-link {
+    color: rgba (255, 255, 255, 0);
+
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    opacity: 1;
+}
+
+.photo-link:hover {
+    opacity: 0.4;
+    background-color: rgba (238, 76, 32, 1);
+    color: rgba (255, 255, 255, 1)
 }

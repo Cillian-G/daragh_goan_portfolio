@@ -239,7 +239,7 @@ footer {
 }
 
 .projects-iframe-wrapper {
-    padding: 50x 0px;
+    padding: 50px 0px;
 }
 
 /* photos page */
@@ -258,7 +258,7 @@ footer {
 }
 
 .photo-link {
-    color: rgba (255, 255, 255, 0);
+    color: rgba(255, 255, 255, 0);
     text-decoration: none;
     text-align: center;
     transition: all 0.3s ease-in-out;
@@ -267,6 +267,6 @@ footer {
 
 .photo-link:hover {
     opacity: 0.4;
-    background-color: rgba (238, 76, 32, 1);
-    color: rgba (255, 255, 255, 1);
+    background-color: rgba(238, 76, 32, 1);
+    color: rgba(255, 255, 255, 1);
 }

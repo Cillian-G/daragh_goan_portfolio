@@ -194,5 +194,19 @@ footer {
     padding-top: 15px;
 }
 
+/* projects page / filmography.html */
+
+#project-hero-wrapper {
+    padding-top: 20px;
+    height: 600px;
+    width: 100%;
+}
+
+#projects-hero-image {
+    background: url(/assets/images/edited_ragin_1.jpg) no-repeat center center;
+    height: 600px;
+    width: 100%;
+}
+
 
 

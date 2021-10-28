@@ -160,5 +160,18 @@ footer {
 }
 
 #contact-daragh {
-    font-size: 100%;
+    font-size: 100%; 
+}
+
+#contact-daragh { 
+    width: 45vw;
+    border: 0px;
+    float: left;
+    padding-top: 50px;
+}
+
+#contact-daragh p, #contact-daragh h2 {
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 20px;
 }

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&family=Vollkorn&display=swap');
 
-/* Color palette vimeo blue #19B7EA, black #000000, black olive,  flame #EC4E20, */
+/* Color palette vimeo blue #19B7EA, black #000000, artichoke #89937C,  flame #EC4E20, */
 
 * {
     margin: 0;
@@ -28,8 +28,9 @@ p {
 #header-icons li {
     list-style-type: none;
     float: right;
-    margin-right: 45px;
-    font-size: 140%;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 110%;
 } 
 
 #upper-header {
@@ -78,7 +79,7 @@ p {
 /* showreel section */
 
 #showreel-wrapper {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 #showreel-hero {
@@ -88,7 +89,6 @@ p {
 
 /* bio and headshot */
 
-
 #bio {
     width: 45vw;
     border: 0px;
@@ -96,15 +96,16 @@ p {
     padding-top: 50px;
 }
 
-#bio p {
+#bio p, #bio h3 {
     text-align: justify;
     padding-top: 10px;
+    padding-left: 20px;
 }
 
 #headshot {
     width: 50vw;
     float: right;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
 /* footer */
@@ -142,4 +143,18 @@ footer {
     padding-left: 33vw;
     padding-right: 33vw;
     /* border: 0px; */
+}
+
+/* contact page */
+
+#contact-hero-wrapper {
+    padding-top: 20px;
+    height: 600px;
+    width: 100%;
+}
+
+#contact-hero-image {
+    background: url(/assets/images/edited_sos_5.png) no-repeat center center;
+    height: 600px;
+    width: 100%;
 }

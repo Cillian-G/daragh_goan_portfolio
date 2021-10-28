@@ -210,7 +210,7 @@ footer {
 }
 
 #projects-hero-image {
-    background: url(/assets/images/edited_ragin_1.jpg) no-repeat center center;
+    background: url(../images/edited_ragin_1.jpg) no-repeat center center;
     height: 600px;
     width: 100%;
 }

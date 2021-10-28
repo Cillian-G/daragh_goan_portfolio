@@ -10,9 +10,12 @@
     color: #89937C;
 }
 
-h1, h2, h3, #menu li a {
+h1,
+h2,
+h3,
+#menu li a {
     font-family: Unica One, sans-serif;
-} 
+}
 
 p {
     font-family: Vollkorn, sans-serif;
@@ -21,6 +24,7 @@ p {
 hr {
     color: #89937C;
 }
+
 /* Header, title and navbar */
 
 #page-name {
@@ -34,7 +38,7 @@ hr {
     margin-right: 20px;
     margin-left: 20px;
     font-size: 110%;
-} 
+}
 
 #upper-header {
     line-height: 55px;
@@ -43,7 +47,7 @@ hr {
 
 #lower-header {
     clear: both;
-    line-height: 10%;  
+    line-height: 10%;
 }
 
 #sub-name {
@@ -62,7 +66,7 @@ hr {
 }
 
 #menu a:hover {
-    color:#19B7EA;
+    color: #19B7EA;
     border-bottom: 1px solid #19B7EA;
 }
 
@@ -70,13 +74,14 @@ hr {
     color: #19B7EA;
 }
 
-#header-icons li a, #menu li a {
+#header-icons li a,
+#menu li a {
     text-decoration: none;
     color: inherit;
 }
 
 #menu li .active {
-    border-bottom: 1px solid #19B7EA; 
+    border-bottom: 1px solid #19B7EA;
 }
 
 /* showreel section */
@@ -99,7 +104,8 @@ hr {
     padding-top: 50px;
 }
 
-#bio p, #bio h3 {
+#bio p,
+#bio h3 {
     text-align: justify;
     padding-top: 10px;
     padding-left: 20px;
@@ -139,7 +145,7 @@ footer {
 }
 
 #footer-icons i:hover {
-    color:#19B7EA;
+    color: #19B7EA;
 }
 
 #footer {
@@ -163,10 +169,10 @@ footer {
 }
 
 #contact-daragh {
-    font-size: 100%; 
+    font-size: 100%;
 }
 
-#contact-daragh { 
+#contact-daragh {
     width: 45vw;
     border: 1px solid black;
     float: left;
@@ -174,7 +180,8 @@ footer {
     padding-left: 20px;
 }
 
-#contact-daragh ul, #contact-daragh h2 {
+#contact-daragh ul,
+#contact-daragh h2 {
     text-align: justify;
     padding-top: 10px;
 }
@@ -187,7 +194,7 @@ footer {
     margin-bottom: 20px;
 }
 
-#contacts-headshot  {
+#contacts-headshot {
     width: 50vw;
     float: right;
     padding-right: 20px;
@@ -211,6 +218,8 @@ footer {
 .projects h2 {
     font-size: 250%;
     padding: 40px 0px;
+    text-decoration: underline;
+    text-decoration-color: #19B7EA;
 }
 
 .projects h3 {
@@ -218,15 +227,23 @@ footer {
     padding: 20px 0px 80px 0px;
 }
 
-.projects h2, .projects h3 {
+.projects h2,
+.projects h3 {
     text-align: center;
 }
 
 .projects iframe {
-    height:500px;
-    width: 100%;  
+    height: 500px;
+    width: 100%;
 }
 
 .projects-iframe-wrapper {
     padding: 50x 0px;
+}
+
+/* photos page */
+
+.gallery-wrap {
+    padding-top: 20px;
+    border: 1px solid black;
 }

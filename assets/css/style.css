@@ -163,7 +163,7 @@ footer {
 }
 
 #contact-hero-image {
-    background: url(/assets/images/edited_sos_5.png) no-repeat center center;
+    background: url(../images/edited_sos_5.png) no-repeat center center;
     height: 600px;
     width: 100%;
 }
@@ -258,7 +258,7 @@ footer {
 
 .photo-link {
     color: rgba (255, 255, 255, 0);
-
+    text-decoration: none;
     text-align: center;
     transition: all 0.3s ease-in-out;
     opacity: 1;

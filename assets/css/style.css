@@ -208,5 +208,27 @@ footer {
     width: 100%;
 }
 
+.projects h2, .projects h3 {
+    text-align: center;
+}
+
+.projects iframe {
+    height:500px;
+    width: 100%;  
+}
+
+.projects-iframe-wrapper {
+    padding: 50x 0px;
+}
 
 
+/*
+EXAMPLE TO REFERE TO, DELETE BEFORE SUBMISSION
+#showreel-wrapper {
+    padding-top: 20px;
+}
+
+#showreel-hero {
+    width: 100%;
+    height: 750px;
+} */

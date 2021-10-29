@@ -256,6 +256,7 @@ footer {
     background-size: contain;  
     background-repeat: no-repeat;
     background-position: center center;
+    text-align: center;
 }
 
 .gallery-wrap {
@@ -285,97 +286,97 @@ footer {
 }
 
 #gallery-div-2 {
-    background-image: url();
+    background-image: url(../images/bundy2.png);
 }
 
 #gallery-div-3 {
-    background-image: url();
+    background-image: url(../images/bundy3.png);
 }
 
 #gallery-div-4 {
-    background-image: url();
+    background-image: url(../images/bundy4.png);
 }
 
 #gallery-div-5 {
-    background-image: url();
+    background-image: url(../images/bundy5.png);
 }
 
 #gallery-div-6 {
-    background-image: url();
+    background-image: url(../images/dance1.PNG);
 }
 
 #gallery-div-7 {
-    background-image: url();
+    background-image: url(../images/dance2.PNG);
 }
 
 #gallery-div-8 {
-    background-image: url();
+    background-image: url(../images/dance3.png);
 }
 
 #gallery-div-9 {
-    background-image: url();
+    background-image: url(../images/dance4.png);
 }
 
 #gallery-div-10 {
-    background-image: url();
+    background-image: url(../images/dance5.png);
 }
 
 #gallery-div-11 {
-    background-image: url();
+    background-image: url(../images/rockingboat1.png);
 }
 
 #gallery-div-12 {
-    background-image: url();
+    background-image: url(../images/rockingboat2.png);
 }
 
 #gallery-div-13 {
-    background-image: url();
+    background-image: url(../images/rockingboat3.png);
 }
 
 #gallery-div-14 {
-    background-image: url();
+    background-image: url(../images/rockingboat4.png);
 }
 
 #gallery-div-15 {
-    background-image: url();
+    background-image: url(../images/rockingboat5.png);
 }
 
 #gallery-div-16 {
-    background-image: url();
+    background-image: url(../images/ragin_1.jpg);
 }
 
 #gallery-div-17 {
-    background-image: url();
+    background-image: url(../images/ragin_2.jpg);
 }
 
 #gallery-div-18 {
-    background-image: url();
+    background-image: url(../images/ragin_3.jpg);
 }
 
 #gallery-div-19 {
-    background-image: url();
+    background-image: url(../images/ragin_4.jpg);
 }
 
 #gallery-div-20 {
-    background-image: url();
+    background-image: url(../images/sos_2-min.png);
 }
 
 #gallery-div-21 {
-    background-image: url();
+    background-image: url(../images/sos_3-min.png);
 }
 
 #gallery-div-22 {
-    background-image: url();
+    background-image: url(../images/sos_4-min.png);
 }
 
 #gallery-div-23 {
-    background-image: url();
+    background-image: url(../images/sos_6-min.png);
 }
 
 #gallery-div-24 {
-    background-image: url();
+    background-image: url(../images/sos_7-min.png);
 }
 
 #gallery-div-25 {
-    background-image: url();
+    background-image: url(../images/sos_8-min.png);
 }

@@ -86,6 +86,9 @@ hr {
     border-bottom: 1px solid #19B7EA;
 }
 
+header {
+    padding-bottom: 20px;
+}
 /* showreel section */
 
 #showreel-wrapper {
@@ -158,15 +161,16 @@ footer {
 /* contact page */
 
 #contact-hero-wrapper {
-    padding-top: 20px;
+    /* padding-top: 20px; */
     height: 600px;
     width: 100%;
 }
 
 #contact-hero-image {
-    background: url(../images/edited_sos_5.png) no-repeat center center;
+    background: url(../images/contact-hero.png) no-repeat center center;
     height: 600px;
     width: 100%;
+    background-size: contain;
 }
 
 #contact-daragh {
@@ -205,15 +209,17 @@ footer {
 /* projects page / filmography.html */
 
 #project-hero-wrapper {
-    padding-top: 20px;
+    /* padding-top: 20px; */
     height: 600px;
     width: 100%;
 }
 
 #projects-hero-image {
-    background: url(../images/edited_ragin_1.jpg) no-repeat center center;
+    background: url(../images/project-hero.jpg) no-repeat center center;
     height: 600px;
     width: 100%;
+    background-size: contain;
+    clear: both;
 }
 
 .projects h2 {
@@ -253,9 +259,9 @@ footer {
     background-image: url();
 }
 
+
 .gallery-wrap {
-    padding-top: 20px;
-    
+    padding-top: 20px; 
 }
 
 /* 

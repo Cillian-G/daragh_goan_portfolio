@@ -27,9 +27,18 @@ hr {
 
 /* Header, title and navbar */
 
+#page-name a{
+    float: left;
+}
 #page-name {
+    text-decoration: none;
     float: left;
     margin-left: 20px;
+
+}
+
+#page-name:hover{
+color: #19B7EA;
 }
 
 #header-icons li {
@@ -206,6 +215,10 @@ footer {
     padding-top: 15px;
 }
 
+.contact-link:hover{
+    color: #19B7EA;
+}
+
 /* projects page / filmography.html */
 
 #project-hero-wrapper {
@@ -262,24 +275,6 @@ footer {
 .gallery-wrap {
     padding-top: 20px; 
 }
-
-/* 
-.photo-link img:hover {
-    opacity: 0.3;
-}
-
-.photo-link {
-    color: rgba(255, 255, 255, 0);
-    text-decoration: none;
-    text-align: center;
-    transition: all 0.3s ease-in-out;
-    opacity: 1;
-}
-
-.photo-link:hover {
-    opacity: 0.4;
-    color: rgba(255, 255, 255, 1);
-} */
 
 #gallery-div-1 {
     background-image: url(../images/bundy1.png);
@@ -379,4 +374,12 @@ footer {
 
 #gallery-div-25 {
     background-image: url(../images/sos_8-min.png);
+}
+
+#photos h2 {
+    text-align: center;
+}
+
+#photos a:hover {
+    color: #19B7EA;
 }

@@ -244,15 +244,12 @@ footer {
 
 /* photos page */
 
-.gallery-wrap {
+/* .gallery-wrap {
     padding-top: 20px;
     border: 1px solid black;
-}
+} */
 
-.photos {
-    clear: both;
-}
-
+/* 
 .photo-link img:hover {
     opacity: 0.3;
 }
@@ -269,4 +266,4 @@ footer {
     opacity: 0.4;
     background-color: rgba(238, 76, 32, 1);
     color: rgba(255, 255, 255, 1);
-}
+} */

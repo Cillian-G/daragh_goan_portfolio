@@ -45,6 +45,7 @@ video players, bio, cotnact details, gallery
 ### Features Left to Implement
 
 -additions to projects, photos, contacts (agents, agencies, production companies etc)
+-Client will source better quality stills in future.
 
 ## Technologies Used (explain various tech used, such as HTML, CSS, Balsamiq, TinyPNG, Gitpod, GitHub, Git, etc.)
 

@@ -244,10 +244,19 @@ footer {
 
 /* photos page */
 
-/* .gallery-wrap {
+.gallery-item {
+    width: 100%;
+    height: 600px;   
+}
+
+#gallery-div-1 {
+    background-image: url();
+}
+
+.gallery-wrap {
     padding-top: 20px;
-    border: 1px solid black;
-} */
+    
+}
 
 /* 
 .photo-link img:hover {

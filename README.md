@@ -7,11 +7,11 @@ This site will serve as an online portfolio for filmmaker Daragh Goan. It is des
 
 ## User Stories
 
-As a user I would like to ________________________________________ .
+As a user:
 - I want to see images and videos of Daraghs work.
 - I want to be able to find links to Daraghs social media pages.
 - I want to be able to find Daraghs contact details. 
-- I want to find out more about Daragh
+- I want to find out more about Daragh.
 
 ## UX 
 
@@ -22,7 +22,7 @@ As a user I would like to ________________________________________ .
 ![Coolors.co screnshot](/assets/documentation/testing/coolors.png)
 
 - Black suits the minimalist style of site, and places emphasis on the videos and images which are doing the "talking" for this portfolio. Black creates a cinematic feel, and brings out details of darker video thumbnails like those for "S.O.S.", "Rocking Boat", and the showreel itself. Having a full black background also means that the  "black bars" that appear throughout showreel when it switches aspect ratio are less distracting to the viewer. These black bars are present in the thumnnail of the showreel, making the transition from background to video player seamless, again enhancing the cinematic feel of the site.   
-- "Artichoke grey" (#89937C) was chosen to avoid detracting from the site's cinematic focus on portfolio content, while allowing for easy legibility. Other tones were avoided so as to 
+- "Artichoke grey" (#89937C) was chosen to avoid detracting from the site's cinematic focus on portfolio content, while allowing for easy legibility.
 - The blue used in the site ("cyan process" #19B7EA) matches the Vimeo color scheme as well as thumbnail of trailer for clients graduate film, the capstone project of their degree and their most accomplished piece of work. Through out the site, a blue hover effect is used to signify interactivity, a fact that is established immediately when the vimeo player loads on the home/about page
 
 ### Typography 
@@ -95,7 +95,7 @@ As a user I would like to ________________________________________ .
 
 ### Features Left to Implement
 
-- Future developments in Daraghs career will need to be refelcted in the site, which may involve swapping out his showreel for a new one, adding further videos and images to the projects and photos pages, as well as adding details of agencies or managers to the contact page
+- Future developments in Daraghs career will need to be refelcted in the site, which may involve swapping out his showreel for a new one, adding further videos and images to the projects and photos pages, as well as adding details of agencies or managers to the contact page.
 
 ## Technologies Used
 
@@ -154,7 +154,6 @@ Alternatively, if using Gitpod, you can click the green Gitpod button, or use [t
 
  - Embedded videos, images, personal information, contact details, and linked social media accounts were all provided by the client himself.
  - Icons were provided by fontawesome.
-
 
 
 ### Media 

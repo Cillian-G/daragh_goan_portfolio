@@ -1,8 +1,7 @@
 # Portfolio Website for Daragh Goan
 
-<img src="/assets/documentation/testing/bio.png">
 
-! [am i responsive screenshot](/assets/documentation/testing/bio.png)
+![am i responsive screenshot](/assets/documentation/testing/amiresponsive.png)
 
 This site will serve as an online portfolio for filmmaker Daragh Goan. It is designed to showcase his work to potential employers. It's secondary purpose is to encourage these employers to contact Daragh, as well as to continue exploring his work through linked social media profiles and video-sharing platforms.
 
@@ -20,7 +19,9 @@ As a user I would like to ________________________________________ .
 -mention weight of icons, order of icons in top right corner, how to avoid confusion with navbar tabs,
 -aim for cinematic feel, minimal distraction from content, while ensuring navigation to further content and contact details is intuitive and simple 
 
-### Colour Scheme (explain your colors, etc.... perhaps use coolors.co?) 
+### Colour Scheme 
+
+![Coolors.co screnshot](/assets/documentation/testing/coolors.png)
 
 Black suits the minimalist style of site, and places emphasis on the videos and images which are doing the "talking" for this portfolio. Black creates a cinematic feel, and brings out details of darker video thumbnails like those for "S.O.S.", "Rocking Boat", and the showreel itself. Having a full black background also means that the  "black bars" that appear throughout showreel when it switches aspect ratio are less distracting to the viewer. These black bars are present in the thumnnail of the showreel, making the transition from background to video player seamless, again enhancing the cinematic feel of the site.   
 "Artichoke grey" (#89937C) was chosen to avoid detracting from the site's cinematic focus on portfolio content, while allowing for easy legibility. Other tones were avoided so as to 
@@ -38,8 +39,12 @@ Wireframing the "photos" page raised an interesting design challenge. The photos
 
 ## Features
 
-nav baris a feature, footer icons are a feature and in navbar, images re features, videos are features,
-contact section is a feature, Bio is a feature, headshot is a feature.
+ - nav bar
+ - showreel
+ - bio + headshot
+ - videos page
+ - gallery page
+ - contact page
 
 ### Existing Features
 
@@ -60,17 +65,27 @@ video players, bio, cotnact details, gallery
 
 ### Code Validation
 
--validate code, get screenshot
+![Validation screenshot](/assets/documentation/testing/valid-index.png)
+![Validation screenshot](/assets/documentation/testing/valid-projects.png)
+![Validation screenshot](/assets/documentation/testing/valid-photos.png)
+![Validation screenshot](/assets/documentation/testing/valid-contact.png)
+![Validation screenshot](/assets/documentation/testing/valid-css.png)
+
+All HTML and CSS code was validated without issue.
 
 ### Browser Compatibility
+
+![Browser compatibility screenshot](/assets/documentation/testing/browser-google-laptop.png)
+![Browser compatibility screenshot](/assets/documentation/testing/browser-edge-tablet.png)
+![Browser compatibility screenshot](/assets/documentation/testing/browser-firefox-phone.png)
+
 
 -test that too, insert screenshots
 -chrome, firefox, edge
 
 ### Responsiveness 
 
-- insert amiresponisive screenshots
-- reuse images hre, open browswers for different screensizes each time. explain this fact
+See above images
 
 ### Tested User Stories
 

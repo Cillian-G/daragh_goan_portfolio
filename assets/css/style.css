@@ -145,7 +145,7 @@ footer {
 #footer-icons {
     list-style-type: none;
     text-align: center;
-    width:  50vw;
+    width:  70vw;
     padding-top: 50px;
 }
 
@@ -166,8 +166,8 @@ footer {
 }
 
 #footer {
-    padding-left: 25vw;
-    padding-right: 25vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }
 
 /* contact page */
@@ -460,8 +460,12 @@ footer {
         height: 200px;
     }
 
-    #bio p {
+    #bio p, #bio h3  {
         padding-left: 5px;
+    }
+
+    #footer-icons {
+        font-size: 80%;
     }
 }
 

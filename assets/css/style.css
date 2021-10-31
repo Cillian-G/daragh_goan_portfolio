@@ -34,7 +34,6 @@ hr {
     text-decoration: none;
     float: left;
     margin-left: 20px;
-
 }
 
 #page-name:hover{
@@ -98,6 +97,10 @@ color: #19B7EA;
 header {
     padding-bottom: 20px;
 }
+
+#menu-2{
+    display: none;
+}
 /* showreel section */
 
 #showreel-wrapper {
@@ -142,7 +145,7 @@ footer {
 #footer-icons {
     list-style-type: none;
     text-align: center;
-    width: 33vw;
+    width:  50vw;
     padding-top: 50px;
 }
 
@@ -163,17 +166,11 @@ footer {
 }
 
 #footer {
-    padding-left: 33vw;
-    padding-right: 33vw;
+    padding-left: 25vw;
+    padding-right: 25vw;
 }
 
 /* contact page */
-
-#contact-hero-wrapper {
-    /* padding-top: 20px; */
-    height: 600px;
-    width: 100%;
-}
 
 #contact-hero-image {
     background: url(../images/contact-hero.png) no-repeat center center;
@@ -181,6 +178,8 @@ footer {
     width: 100%;
     background-size: contain;
 }
+
+/* contact details and headshot */
 
 #contact-daragh {
     font-size: 100%;
@@ -221,12 +220,6 @@ footer {
 
 /* projects page / filmography.html */
 
-#project-hero-wrapper {
-    /* padding-top: 20px; */
-    height: 600px;
-    width: 100%;
-}
-
 #projects-hero-image {
     background: url(../images/project-hero.jpg) no-repeat center center;
     height: 600px;
@@ -239,7 +232,6 @@ footer {
     font-size: 250%;
     padding: 40px 0px;
     text-decoration: underline;
-    text-decoration-color: #19B7EA;
 }
 
 .projects h3 {
@@ -270,6 +262,10 @@ footer {
     background-repeat: no-repeat;
     background-position: center center;
     text-align: center;
+}
+
+.photo-link:hover {
+    color: #19B7EA;
 }
 
 .gallery-wrap {
@@ -382,4 +378,108 @@ footer {
 
 #photos a:hover {
     color: #19B7EA;
+}
+
+/* responsiveness for 950px width screens and below */
+
+@media screen and (max-width: 950px) {
+    #header-icons li{
+        font-size: 100%;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    #menu {
+        clear: left;
+        font-size: 75%;
+    }
+
+    #menu li {
+        padding-right: 10px;
+    }
+
+    #sub-name {
+        clear: both;
+    }
+
+    #showreel-hero {
+        height: 450px;
+    }
+
+    #contacts-hero-image, #projects-hero-image {
+        height: 450px;
+    }
+
+    .gallery-item {
+        height: 400px;
+    }
+    
+    .projects iframe {
+        height: 300px;
+    }
+
+    .projects h2 {
+        padding: 20px 0px;
+    }
+}
+
+/* responsiveness for 750px width screens and below */
+
+@media screen and (max-width: 750px) {
+    #bio {
+        width: 95vw;
+        padding-left: 0px;
+        float: left;
+    }
+
+    #headshot {
+        width: 100vw;
+        padding-right: 0px;
+    }
+
+    #contact-daragh {
+        width: 100vw;
+    }
+
+    #contacts-headshot {
+        width: 100vw;
+        float: right;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+
+    #showreel-hero {
+        height: 200px;
+    }
+
+    #contact-hero-image, #projects-hero-image {
+        height: 200px;
+    }
+
+    .gallery-item {
+        height: 200px;
+    }
+
+    #bio p {
+        padding-left: 5px;
+    }
+}
+
+/* responsiveness for 350px width screens and below */
+
+@media screen and (max-width: 350px) {
+    #header-icons li {
+        font-size: 75%;
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+    
+    #menu {
+        font-size: 50%;
+        padding-right: 0px;
+    }
+
+    .projects iframe {
+        height: 200px;
+    }
 }

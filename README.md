@@ -7,10 +7,11 @@ This site will serve as an online portfolio for filmmaker Daragh Goan. It is des
 ## User Stories
 
 As a user I would like to ________________________________________ .
-- I want to see images of Daraghs work.
+- I want to see images and videos of Daraghs work.
 - I want to be able to find links to Daraghs social media pages.
 - I want to be able to find Daraghs contact details. 
-etc etc
+- I want to find out more about Daragh
+
 
 ## UX (briefly explain your design)
 

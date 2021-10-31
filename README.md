@@ -1,6 +1,8 @@
 # Portfolio Website for Daragh Goan
 
-![alt]assets/d
+<img src="/assets/documentation/testing/bio.png">
+
+! [am i responsive screenshot](/assets/documentation/testing/bio.png)
 
 This site will serve as an online portfolio for filmmaker Daragh Goan. It is designed to showcase his work to potential employers. It's secondary purpose is to encourage these employers to contact Daragh, as well as to continue exploring his work through linked social media profiles and video-sharing platforms.
 

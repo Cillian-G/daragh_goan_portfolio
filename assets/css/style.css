@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&family=Vollkorn&display=swap');
 
-/* Color palette vimeo blue #19B7EA, black #000000, artichoke #89937C,  flame #EC4E20, */
+/* Color palette vimeo blue #19B7EA, black #000000, artichoke #89937C */
 
 * {
     margin: 0;
@@ -27,17 +27,18 @@ hr {
 
 /* Header, title and navbar */
 
-#page-name a{
+#page-name a {
     float: left;
 }
+
 #page-name {
     text-decoration: none;
     float: left;
     margin-left: 20px;
 }
 
-#page-name:hover{
-color: #19B7EA;
+#page-name:hover {
+    color: #19B7EA;
 }
 
 #header-icons li {
@@ -98,9 +99,10 @@ header {
     padding-bottom: 20px;
 }
 
-#menu-2{
+#menu-2 {
     display: none;
 }
+
 /* showreel section */
 
 #showreel-wrapper {
@@ -145,7 +147,7 @@ footer {
 #footer-icons {
     list-style-type: none;
     text-align: center;
-    width:  70vw;
+    width: 70vw;
     padding-top: 50px;
 }
 
@@ -214,7 +216,7 @@ footer {
     padding-top: 15px;
 }
 
-.contact-link:hover{
+.contact-link:hover {
     color: #19B7EA;
 }
 
@@ -257,8 +259,8 @@ footer {
 
 .gallery-item {
     width: 100%;
-    height: 600px; 
-    background-size: contain;  
+    height: 600px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     text-align: center;
@@ -269,7 +271,7 @@ footer {
 }
 
 .gallery-wrap {
-    padding-top: 20px; 
+    padding-top: 20px;
 }
 
 #gallery-div-1 {
@@ -383,7 +385,7 @@ footer {
 /* responsiveness for 950px width screens and below */
 
 @media screen and (max-width: 950px) {
-    #header-icons li{
+    #header-icons li {
         font-size: 100%;
         margin-right: 10px;
         margin-left: 10px;
@@ -406,14 +408,15 @@ footer {
         height: 450px;
     }
 
-    #contacts-hero-image, #projects-hero-image {
+    #contacts-hero-image,
+    #projects-hero-image {
         height: 450px;
     }
 
     .gallery-item {
         height: 400px;
     }
-    
+
     .projects iframe {
         height: 300px;
     }
@@ -452,7 +455,8 @@ footer {
         height: 200px;
     }
 
-    #contact-hero-image, #projects-hero-image {
+    #contact-hero-image,
+    #projects-hero-image {
         height: 200px;
     }
 
@@ -460,7 +464,8 @@ footer {
         height: 200px;
     }
 
-    #bio p, #bio h3  {
+    #bio p,
+    #bio h3 {
         padding-left: 5px;
     }
 
@@ -477,7 +482,7 @@ footer {
         margin-right: 10px;
         margin-left: 5px;
     }
-    
+
     #menu {
         font-size: 50%;
         padding-right: 0px;
